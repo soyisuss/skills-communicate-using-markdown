@@ -6,3 +6,8 @@
 ```python
 print("Hello md")
 ```
+
+- [x] Use headers
+- [x] Add an image
+- [x] Add code
+- [x] Use lists
